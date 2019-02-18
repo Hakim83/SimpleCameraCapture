@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleCameraCapture</string>
+    <string name="a_photo">A photo!</string>
+    <string name="take_snapshot_button_name">Take A snapshot!</string>
+</resources>
